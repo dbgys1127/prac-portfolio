@@ -24,7 +24,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.txt) 참고
 
 ---
 
